@@ -1,0 +1,16 @@
+structure:
+  - data/
+  - data/external/
+  - data/intermediate/
+  - data/processed/
+  - data/raw/
+  - database/
+  - logs/
+  - notebooks/
+  - reports/
+  - scripts/
+  - src/
+  - src/__init__.py
+  - src/config.py
+  - src/functions.py
+  - .gitignore
