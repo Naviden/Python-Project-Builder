@@ -53,8 +53,7 @@ pip install pyyaml
 
 ---
 
-You guessd it! this README file is build by ChatGPT!
-
+You guessed it! This README file was built by ChatGPT!
 ---
 
 ## 🧼 License
